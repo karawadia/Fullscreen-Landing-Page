@@ -1,0 +1,24 @@
+html, body {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  font-family: Arial; }
+
+header {
+  background-image: url("https://source.unsplash.com/r52dZwpvB6Q/1600x900");
+  background-size: cover;
+  height: 100vh;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center; }
+
+/*# sourceMappingURL=style.css.map */
